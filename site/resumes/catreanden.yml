@@ -1,0 +1,130 @@
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Cecilia
+    last_name: Terra
+    
+    # Define yourself in 4-5 words
+    motto: i'm doing my best
+    
+    # focus
+    focus: Family, Rubgy, Career Change
+    
+    # You have 1 paragraph to make a great impression, summarize your career.
+    summary: Event manager, administration, working on a future career in app and web development
+  
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://media.licdn.com/dms/image/v2/C4E03AQGUM6qz2DjOpw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1608942106752?e=1734566400&v=beta&t=13e0mwV19G5Yfz5mK6z52SpUTAh6JzKa4rh010PoqhU
+    # Contact Information
+    email: catreanden@gmail.com #optional
+    phone: 678968504 #optional
+    website:  #optional
+    linkedin: www.linkedin.com/in/cecilia-terra-a20785202/ #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: catreanden
+    
+    twitter:  #optional
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    # languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: English
+        level: Fluent
+
+      - idiom: Spanish
+        level: Native
+
+      - idiom: Catalan
+        level: Fluent
+
+    # Interests or hobies
+    interests:
+      - item: Rubgy
+      - item: Cooking
+
+      - item: Nature
+
+# Your previous education
+education:
+    - degree: Bachelor's Management and direction of establishments and staff, tourism 
+      university: UNIR
+      # optional
+      university_logo: 
+      time: 2015 - 2018
+      details: |
+       
+        
+    
+# Your previous job experiences or voluntier
+experiences:
+    - role: Event Manager
+      time: 2019 - Present
+      company: Sodexo Iberia
+      # optional
+      company_logo:
+      details: |
+       Event organization, invoicing, SAP management, ordering, collections, comprehensive administrative management.
+       Plan and execute events for internal and external purposes.
+       Keep event plans within budget and on schedule.
+       Contact potential collaborators
+       Maintain accurate records of all expenses.
+       Ensure events are carried out successfully
+       I have very good organizational and management skills.
+       Comfort working in a fast-paced environment
+       Ability to plan and execute projects with many moving parts.
+       Leadership and communication skills.
+       Experience creating and sticking to a budget.
+   
+  
+     
+
+# Your project portfolio
+projects:
+    intro: >
+   
+    assignments:
+      - title: Digital Postcard
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: https://github.com/catreanden/exercise-postcard-Cecilia-Terra
+        tagline: "A postcard created with HTML and limited CSS."
+
+      - title: Instagram Post
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: https://github.com/catreanden/Photo-Feed-Cecilia-Terra
+        tagline: "A replica Instagram Post using HTML and CSS."
+
+      - title: Instagram Feed
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: https://github.com/4GeeksAcademy/html-bootstrap-cecilia-terra-spain-fs-pt-85
+        tagline: "An Instagram feed that toggles between a gallery view and post feed using Bootstrap."
+
+      - title: Form
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: https://github.com/4GeeksAcademy/Forms-Cecilia-Terra-spain-fs-pt-85
+        tagline: "creat a form with HTML 5"
+     
+skills:
+    toolset:
+      - 
+
+      - name: Javascript & jQuery
+        level: 10%
+
+      -
+      - name: HTML5 & CSS
+        level: 100%
+
+      
